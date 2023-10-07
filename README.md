@@ -20,7 +20,7 @@ Image generation model via DDPM model on STL-10 and CIFAR-10 datasets
 
 ### Premium Selections: Cherry-pick of Both
 
-![Cherry-Picked Images from Both Datasets](cherry-pick.jpg)
+![Cherry-Picked Images from Both Datasets](cherry-pick.png)
 
 ## 🛠 Installation and Usage
 
