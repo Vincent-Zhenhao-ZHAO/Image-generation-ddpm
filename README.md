@@ -10,6 +10,11 @@ Image generation model via DDPM model on STL-10 and CIFAR-10 datasets
 
 ## 🏆 Achievements 
 
+![STL10 dataset](STL10-best.png)
+
+![Cifar dataset](Cifar-best.jpg)
+
+![Cherry pick for both](cherry-pick.jpg)
 
 ## 🛠 Installation and Usage
 
