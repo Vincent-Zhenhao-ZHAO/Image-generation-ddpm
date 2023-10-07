@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-Welcome to the exploration of bipedal locomotion mastery in the Bipedal-Walking-v3 environment! This project encompasses the application of a modified Soft Actor-Critic (SAC) algorithm as a part of my Reinforcement Learning course, aiming to skillfully navigate through the challenges and complexities of bipedal movement.
+Image generation model via DDPM model on STL-10 and CIFAR-10 datasets
 
 ## 📜 Abstract from the Paper
 
